@@ -1,2 +1,2 @@
 # Dot_files
-All files config of Windows and Linux
+All files config of Windows
